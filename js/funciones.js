@@ -7,8 +7,8 @@ Datos de entrada
 variables 
 */
 
-num1=12;
-num2=10;
+num1=150;
+num2=120;
 
 /* proceso */
 total = num1 + num2;
